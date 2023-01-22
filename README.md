@@ -4,6 +4,8 @@ Meu nome é Letícia, estou em transição de carreira para a área de Quality A
 
 ## Apresentação :handshake:
 
+[![img](https://tm.ibxk.com.br/2021/08/17/17104340644112.jpg?ims=120x42)](https://www.linkedin.com/in/let%C3%ADcia-furlan-rufato/)
+
 ### Formação Acadêmica :woman_student:
 
 - Química - Graduação - USP São Carlos;
