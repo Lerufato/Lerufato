@@ -1,6 +1,6 @@
 ## Hello World!! 👋
 
-Meu nome é Letícia, estou em transição de carreira para a área de Quality Assurance.
+Meu nome é Letícia, estou em transição de carreira para a área de Quality Assurance e sou apaixonada por Qualidade!!
 
 ## Apresentação :handshake:
 
