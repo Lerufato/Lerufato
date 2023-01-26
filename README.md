@@ -14,6 +14,7 @@ Meu nome é Letícia, estou em transição de carreira para a área de Quality A
 ### Algumas Hard Skills :computer::muscle:
 - Lógica de programação;
 - Java;
+- HTML;
 - IDEs (VScode, intellij);
 - JUnit;
 - BDD - Escrita Gherkin;
