@@ -13,7 +13,7 @@ Meu nome é Letícia, estou em transição de carreira para a área de Quality A
 
 ### Habilidades e Hobbies
 
-| Hard Skills :computer::muscle: |  Soft Skills :thought_balloon: | Hobbies
+| Hard Skills :computer::muscle: |  Soft Skills :thought_balloon: | Hobbies :heart_eyes:
 |----------------------------|------------------------------|-------------------------------|
 | Lógica de programação | Curiosa | :palm_tree: Estar na natureza |
 | Java | Analítica | :wilted_flower: Cuidar de plantas |
