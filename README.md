@@ -10,6 +10,7 @@ Meu nome é Letícia, estou em transição de carreira para a área de Quality A
 
 - Química - Graduação - USP São Carlos;
 - Gestão da Qualidade e produtividade - MBA - IPOG.
+- Engenharia de Software com ênfase em Qualidade e Testes - MBA - VINCIT.
 
 ### Habilidades e Hobbies
 
