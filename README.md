@@ -28,11 +28,3 @@ Meu nome é Letícia, estou em transição de carreira para a área de Quality A
 | Scrum | Visão de cliente | :cocktail:Ir em bares com os amigos; |
 | Inglês Avançado | Espírito de equipe | :art:Pintar quadros e desenhos; |
 | Microsoft Office | Facilidade de aprendizado | :smile:Conversar e rir!! |
-
-### Estatíticas - GitHub
-
-<div>
-<a href="https://github.com/lerufato">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerufato&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lerufato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
