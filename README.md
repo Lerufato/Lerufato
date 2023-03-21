@@ -22,9 +22,9 @@ Meu nome é Letícia, estou em transição de carreira para a área de Quality A
 | HTML | Crítica | :camping: Acampar |
 | IDEs (VScode, intellij) | Flexível | :weight_lifting_woman: Atividade Física |
 | JUnit | Criativa | :books: Ler livros |
-| BDD - Escrita Gherkin | Pró-ativa | :heart_eyes_cat:Cuidar das minhas gatinhas; |
-| TDD | Responsável | :airplane:Viajar, conhecer novos lugares e novas culturas; |
-| Git/ GitHub | Visão de negócio | :woman_cook:Cozinhar coisas deliciosas; |
-| Scrum | Visão de cliente | :cocktail:Ir em bares com os amigos; |
-| Inglês Avançado | Espírito de equipe | :art:Pintar quadros e desenhos; |
+| BDD - Escrita Gherkin | Pró-ativa | :heart_eyes_cat:Cuidar das minhas gatinhas |
+| TDD | Responsável | :airplane:Viajar, conhecer novos lugares e novas culturas |
+| Git/ GitHub | Visão de negócio | :woman_cook:Cozinhar coisas deliciosas |
+| Scrum | Visão de cliente | :cocktail:Ir em bares com os amigos |
+| Inglês Avançado | Espírito de equipe | :art:Pintar quadros e desenhos |
 | Microsoft Office | Facilidade de aprendizado | :smile:Conversar e rir!! |
