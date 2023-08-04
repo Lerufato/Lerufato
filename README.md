@@ -1,11 +1,10 @@
 ## Hello World!! 👋
 
-Meu nome é Letícia, estou em transição de carreira para a área de Quality Assurance e sou apaixonada por Qualidade!!
+Meu nome é Letícia, sou analista QA, apaixonada por qualidade!
 
 ## Apresentação :handshake:
 
 [![img](https://tm.ibxk.com.br/2021/08/17/17104340644112.jpg?ims=60x22)](https://www.linkedin.com/in/let%C3%ADcia-furlan-rufato/) 
-[<img src="https://user-images.githubusercontent.com/108362560/219968427-5f1bf7cc-2093-4387-9227-a895e432376b.png" width="55" height="22"/>](https://github.com/Lerufato/Lerufato/files/11235412/Curriculo.-.Leticia.Furlan.Rufato.pdf)
 
 ### Formação Acadêmica :woman_student:
 
